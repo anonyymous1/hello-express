@@ -5,4 +5,4 @@ app.get('/', function(req, res) {
     res.send('Hello, SEI World');
 });
 
-app.listen(8000);
+app.listen(3000);
